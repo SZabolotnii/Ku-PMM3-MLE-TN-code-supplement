@@ -5,7 +5,11 @@ Supplementary material for S. Zabolotnii, A. Chepynoha, P. Klopotovskyi,
 Linear Regression Parameters under Two-piece Normal Distributed Errors*,
 submitted to ITEST 2026.
 
-**Archive:** DOI to be added after the first Zenodo release.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22849684.svg)](https://doi.org/10.5281/zenodo.22849684)
+
+**Archive:** release v1.0.0 is [10.5281/zenodo.22849684](https://doi.org/10.5281/zenodo.22849684).
+The concept DOI [10.5281/zenodo.22849683](https://doi.org/10.5281/zenodo.22849683)
+always resolves to the latest version.
 
 The repository holds the R code for the simulation study and the stored result
 tables it produced. Every simulation table and figure in the paper is

@@ -11,6 +11,9 @@ authors:
     affiliation: Cherkasy State Business College
     orcid: "https://orcid.org/0000-0003-0242-2234"
 license: MIT
+# Concept DOI: resolves to the current version, so it stays correct inside every
+# archived snapshot. Release v1.0.0 has version DOI 10.5281/zenodo.22849684.
+doi: "10.5281/zenodo.22849683"
 version: "1.0.0"
 date-released: "2026-09-19"
 repository-code: "https://github.com/SZabolotnii/Ku-PMM3-MLE-TN-code-supplement"
