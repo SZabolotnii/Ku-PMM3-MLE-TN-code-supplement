@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+title: "PMM3 vs MLE-TN: code and stored results"
+message: >-
+  If you use this code or the stored results, please cite the article it
+  accompanies.
+type: software
+authors:
+  - family-names: Zabolotnii
+    given-names: Serhii
+    email: zabolotnii.serhii@csbc.edu.ua
+    affiliation: Cherkasy State Business College
+    orcid: "https://orcid.org/0000-0003-0242-2234"
+license: MIT
+version: "1.0.0"
+date-released: "2026-09-19"
+repository-code: "https://github.com/SZabolotnii/Ku-PMM3-MLE-TN-code-supplement"
+abstract: >-
+  R code and stored Monte Carlo results comparing the third-order polynomial
+  maximization method (PMM3), maximum likelihood for the Two-piece Normal
+  distribution (MLE-TN) and OLS for linear regression with symmetric
+  platykurtic errors.
+keywords:
+  - polynomial maximization method
+  - PMM3
+  - two-piece normal distribution
+  - maximum likelihood
+  - linear regression
+  - platykurtic errors
+  - Monte Carlo
+preferred-citation:
+  type: conference-paper
+  title: >-
+    PMM3 vs MLE-TN: Comparison of Semiparametric and Parametric Estimation of
+    Linear Regression Parameters under Two-piece Normal Distributed Errors
+  authors:
+    - family-names: Zabolotnii
+      given-names: Serhii
+      orcid: "https://orcid.org/0000-0003-0242-2234"
+    - family-names: Chepynoha
+      given-names: Anatolii
+      orcid: "https://orcid.org/0000-0003-3921-6557"
+    - family-names: Klopotovskyi
+      given-names: Pavlo
+      orcid: "https://orcid.org/0000-0002-4958-2377"
+  conference:
+    name: ITEST 2026
+  year: 2026

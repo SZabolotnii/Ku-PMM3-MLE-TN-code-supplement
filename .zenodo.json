@@ -1,0 +1,30 @@
+{
+  "title": "PMM3 vs MLE-TN: code and stored results",
+  "upload_type": "software",
+  "description": "<p>R code and stored Monte Carlo results for the paper <em>PMM3 vs MLE-TN: Comparison of Semiparametric and Parametric Estimation of Linear Regression Parameters under Two-piece Normal Distributed Errors</em> (S. Zabolotnii, A. Chepynoha, P. Klopotovskyi; submitted to ITEST 2026).</p><p>The archive compares the third-order polynomial maximization method (PMM3), maximum likelihood for the Two-piece Normal distribution (MLE-TN) and OLS for linear regression with symmetric platykurtic errors. It contains the full Monte Carlo table (24 scenarios &times; 4 estimators, M = 500), the theoretical efficiency table, the misspecification and bimodal-convergence tests, the real-data results, and the scripts that regenerate the paper's figures and tables. <code>scripts/verify_stored_results.R</code> reruns the simulation (seed 20260312) and checks it against the stored tables.</p>",
+  "creators": [
+    {
+      "name": "Zabolotnii, Serhii",
+      "affiliation": "Cherkasy State Business College",
+      "orcid": "0000-0003-0242-2234"
+    }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": [
+    "polynomial maximization method",
+    "PMM3",
+    "two-piece normal distribution",
+    "maximum likelihood",
+    "linear regression",
+    "platykurtic errors",
+    "Monte Carlo"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/SZabolotnii/PMM3_vs_MLE-TN",
+      "relation": "isDerivedFrom",
+      "resource_type": "software"
+    }
+  ]
+}
